@@ -1,0 +1,32 @@
+escape : Quittez
+ctrl + q : Quittez
+h : Help
+
+ctrl + w : save/ecrire
+ctrl + l : Load à partir d'un ficher
+0->7 : Couleur
+G : Activer desactiver la grille
+ctrl + shif + n : nouvelle fenetre
+r : Rectangle 
+e : Ellipse
+q : Carré
+s : étoile
+c : cercle
+t : triangle
+i : image
+p : polygone
+
+ctr + 0->9 : Se posionner su un calque
+ctrl + +/- : ajouter et supprimer
+
+shift + Alt + g : Grouper
+shift + Alt + k : Grouper  
+
++/- : taille épaisseur trait
+ctrl + molette : taille épaisseur trait
+f : Remplire les formes
+
+entrée : ecrire text
+ctrl + Entrée : ecrire text font
+
+
